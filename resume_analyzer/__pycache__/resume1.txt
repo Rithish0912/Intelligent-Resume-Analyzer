@@ -1,0 +1,21 @@
+John Doe
+Email: john@email.com
+
+Summary:
+Experienced Software Engineer with 5+ years in Python development. Strong background in machine learning, data analysis, and cloud computing (AWS). Proficient in SQL, Docker, and CI/CD pipelines.
+
+Skills:
+- Python, Java, C++
+- Machine Learning (Scikit-learn, TensorFlow)
+- Data Analysis (Pandas, NumPy)
+- Cloud: AWS (EC2, S3), Azure
+- Databases: MySQL, PostgreSQL
+- DevOps: Docker, Jenkins, Git
+
+Experience:
+- Built ML models for customer segmentation.
+- Deployed applications on AWS with Docker.
+- Automated CI/CD pipelines.
+
+Education:
+- B.S. Computer Science, MIT

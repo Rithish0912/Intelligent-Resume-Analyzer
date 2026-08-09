@@ -1,0 +1,20 @@
+Jane Smith
+Email: jane@email.com
+
+Summary:
+Full-stack web developer with expertise in JavaScript, React, and Node.js. Experience in backend development with Python and basic SQL. Looking for a software engineering role.
+
+Skills:
+- Python, JavaScript, TypeScript
+- React, Angular, Node.js
+- SQL (MySQL, SQLite)
+- REST APIs, GraphQL
+- Git, GitHub
+
+Experience:
+- Built e-commerce websites with React and Node.
+- Developed REST APIs in Python (Flask).
+- Managed databases with SQL.
+
+Education:
+- B.S. Information Technology, Stanford
